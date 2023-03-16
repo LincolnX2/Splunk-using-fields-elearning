@@ -95,7 +95,7 @@ By default, all of your data is put into a single, preconfigured index called ma
 You can create indexes to store your data when you add the data to your Splunk instance. 
 There are also several other indexes used for internal purposes.
 
+https://education.splunk.com/award/completion/34287e10-22b5-3544-83b9-bf58c469b1b9/view-ext
 
-file:///C:/Users/s84145577.CHINA/Downloads/award-34287e10-22b5-3544-83b9-bf58c469b1b9.pdf
 
 Author: Sabur Olamilekan Yinus | sabur.yinus@gmail.com
